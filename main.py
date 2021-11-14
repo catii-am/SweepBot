@@ -182,6 +182,7 @@ try:
         time.sleep(10)
         print('выключай РП')
         time.sleep(10)
+        i += 1
 
 
 
